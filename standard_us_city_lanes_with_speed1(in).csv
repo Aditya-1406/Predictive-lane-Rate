@@ -1,0 +1,271 @@
+﻿origin_city,origin_state,dest_city,dest_state,distance_miles_est,toll_rate_per_mile_usd,toll_fare_usd,lane_type,lane_rate_per_mile_usd,freight_cost_usd,speed_limit_mph,total_cost_usd
+"Dallas, TX",TX,"Chicago, IL",IL,925,0.063,58.27,slow,1.78,1646.5,60,1704.77
+"Dallas, TX",TX,"Chicago, IL",IL,925,0.07,64.75,normal,2.1,1942.5,70,2007.25
+"Dallas, TX",TX,"Chicago, IL",IL,925,0.098,90.65,fast,2.62,2423.5,80,2514.15
+"Dallas, TX",TX,"Los Angeles, CA",CA,1423,0.054,76.84,slow,1.78,2532.94,60,2609.78
+"Dallas, TX",TX,"Los Angeles, CA",CA,1423,0.06,85.38,normal,2.1,2988.3,70,3073.68
+"Dallas, TX",TX,"Los Angeles, CA",CA,1423,0.084,119.53,fast,2.62,3728.26,80,3847.79
+"Dallas, TX",TX,"Atlanta, GA",GA,828,0.041,33.95,slow,1.78,1473.84,60,1507.79
+"Dallas, TX",TX,"Atlanta, GA",GA,828,0.045,37.26,normal,2.1,1738.8,70,1776.06
+"Dallas, TX",TX,"Atlanta, GA",GA,828,0.063,52.16,fast,2.62,2169.36,80,2221.52
+"Dallas, TX",TX,"Houston, TX",TX,259,0.036,9.32,slow,1.78,461.02,60,470.34
+"Dallas, TX",TX,"Houston, TX",TX,259,0.04,10.36,normal,2.1,543.9,70,554.26
+"Dallas, TX",TX,"Houston, TX",TX,259,0.056,14.5,fast,2.62,678.58,80,693.08
+"Dallas, TX",TX,"Miami, FL",FL,1277,0.063,80.45,slow,1.78,2273.06,60,2353.51
+"Dallas, TX",TX,"Miami, FL",FL,1277,0.07,89.39,normal,2.1,2681.7,70,2771.09
+"Dallas, TX",TX,"Miami, FL",FL,1277,0.098,125.15,fast,2.62,3345.74,80,3470.89
+"Dallas, TX",TX,"Denver, CO",CO,762,0.041,31.24,slow,1.78,1356.36,60,1387.6
+"Dallas, TX",TX,"Denver, CO",CO,762,0.045,34.29,normal,2.1,1600.2,70,1634.49
+"Dallas, TX",TX,"Denver, CO",CO,762,0.063,48.01,fast,2.62,1996.44,80,2044.45
+"Dallas, TX",TX,"Phoenix, AZ",AZ,1017,0.041,41.7,slow,1.78,1810.26,60,1851.96
+"Dallas, TX",TX,"Phoenix, AZ",AZ,1017,0.045,45.77,normal,2.1,2135.7,70,2181.47
+"Dallas, TX",TX,"Phoenix, AZ",AZ,1017,0.063,64.07,fast,2.62,2664.54,80,2728.61
+"Dallas, TX",TX,"Seattle, WA",WA,1932,0.045,86.94,slow,1.78,3438.96,60,3525.9
+"Dallas, TX",TX,"Seattle, WA",WA,1932,0.05,96.6,normal,2.1,4057.2,70,4153.8
+"Dallas, TX",TX,"Seattle, WA",WA,1932,0.07,135.24,fast,2.62,5061.84,80,5197.08
+"Dallas, TX",TX,"New York, NY",NY,1576,0.072,113.47,slow,1.78,2805.28,60,2918.75
+"Dallas, TX",TX,"New York, NY",NY,1576,0.08,126.08,normal,2.1,3309.6,70,3435.68
+"Dallas, TX",TX,"New York, NY",NY,1576,0.112,176.51,fast,2.62,4129.12,80,4305.63
+"Chicago, IL",IL,"Dallas, TX",TX,925,0.063,58.27,slow,1.78,1646.5,60,1704.77
+"Chicago, IL",IL,"Dallas, TX",TX,925,0.07,64.75,normal,2.1,1942.5,70,2007.25
+"Chicago, IL",IL,"Dallas, TX",TX,925,0.098,90.65,fast,2.62,2423.5,80,2514.15
+"Chicago, IL",IL,"Los Angeles, CA",CA,2004,0.081,162.32,slow,1.78,3567.12,60,3729.44
+"Chicago, IL",IL,"Los Angeles, CA",CA,2004,0.09,180.36,normal,2.1,4208.4,70,4388.76
+"Chicago, IL",IL,"Los Angeles, CA",CA,2004,0.126,252.5,fast,2.62,5250.48,80,5502.98
+"Chicago, IL",IL,"Atlanta, GA",GA,677,0.068,46.04,slow,1.78,1205.06,60,1251.1
+"Chicago, IL",IL,"Atlanta, GA",GA,677,0.075,50.77,normal,2.1,1421.7,70,1472.47
+"Chicago, IL",IL,"Atlanta, GA",GA,677,0.105,71.08,fast,2.62,1773.74,80,1844.82
+"Chicago, IL",IL,"Houston, TX",TX,1083,0.063,68.23,slow,1.78,1927.74,60,1995.97
+"Chicago, IL",IL,"Houston, TX",TX,1083,0.07,75.81,normal,2.1,2274.3,70,2350.11
+"Chicago, IL",IL,"Houston, TX",TX,1083,0.098,106.13,fast,2.62,2837.46,80,2943.59
+"Chicago, IL",IL,"Miami, FL",FL,1370,0.09,123.3,slow,1.78,2438.6,60,2561.9
+"Chicago, IL",IL,"Miami, FL",FL,1370,0.1,137,normal,2.1,2877,70,3014
+"Chicago, IL",IL,"Miami, FL",FL,1370,0.14,191.8,fast,2.62,3589.4,80,3781.2
+"Chicago, IL",IL,"Denver, CO",CO,1056,0.068,71.81,slow,1.78,1879.68,60,1951.49
+"Chicago, IL",IL,"Denver, CO",CO,1056,0.075,79.2,normal,2.1,2217.6,70,2296.8
+"Chicago, IL",IL,"Denver, CO",CO,1056,0.105,110.88,fast,2.62,2766.72,80,2877.6
+"Chicago, IL",IL,"Phoenix, AZ",AZ,1670,0.068,113.56,slow,1.78,2972.6,60,3086.16
+"Chicago, IL",IL,"Phoenix, AZ",AZ,1670,0.075,125.25,normal,2.1,3507,70,3632.25
+"Chicago, IL",IL,"Phoenix, AZ",AZ,1670,0.105,175.35,fast,2.62,4375.4,80,4550.75
+"Chicago, IL",IL,"Seattle, WA",WA,1993,0.072,143.5,slow,1.78,3547.54,60,3691.04
+"Chicago, IL",IL,"Seattle, WA",WA,1993,0.08,159.44,normal,2.1,4185.3,70,4344.74
+"Chicago, IL",IL,"Seattle, WA",WA,1993,0.112,223.22,fast,2.62,5221.66,80,5444.88
+"Chicago, IL",IL,"New York, NY",NY,818,0.099,80.98,slow,1.78,1456.04,60,1537.02
+"Chicago, IL",IL,"New York, NY",NY,818,0.11,89.98,normal,2.1,1717.8,70,1807.78
+"Chicago, IL",IL,"New York, NY",NY,818,0.154,125.97,fast,2.62,2143.16,80,2269.13
+"Los Angeles, CA",CA,"Dallas, TX",TX,1423,0.054,76.84,slow,1.78,2532.94,60,2609.78
+"Los Angeles, CA",CA,"Dallas, TX",TX,1423,0.06,85.38,normal,2.1,2988.3,70,3073.68
+"Los Angeles, CA",CA,"Dallas, TX",TX,1423,0.084,119.53,fast,2.62,3728.26,80,3847.79
+"Los Angeles, CA",CA,"Chicago, IL",IL,2004,0.081,162.32,slow,1.78,3567.12,60,3729.44
+"Los Angeles, CA",CA,"Chicago, IL",IL,2004,0.09,180.36,normal,2.1,4208.4,70,4388.76
+"Los Angeles, CA",CA,"Chicago, IL",IL,2004,0.126,252.5,fast,2.62,5250.48,80,5502.98
+"Los Angeles, CA",CA,"Atlanta, GA",GA,2223,0.059,131.16,slow,1.78,3956.94,60,4088.1
+"Los Angeles, CA",CA,"Atlanta, GA",GA,2223,0.065,144.5,normal,2.1,4668.3,70,4812.8
+"Los Angeles, CA",CA,"Atlanta, GA",GA,2223,0.091,202.29,fast,2.62,5824.26,80,6026.55
+"Los Angeles, CA",CA,"Houston, TX",TX,1577,0.054,85.16,slow,1.78,2807.06,60,2892.22
+"Los Angeles, CA",CA,"Houston, TX",TX,1577,0.06,94.62,normal,2.1,3311.7,70,3406.32
+"Los Angeles, CA",CA,"Houston, TX",TX,1577,0.084,132.47,fast,2.62,4131.74,80,4264.21
+"Los Angeles, CA",CA,"Miami, FL",FL,2686,0.081,217.57,slow,1.78,4781.08,60,4998.65
+"Los Angeles, CA",CA,"Miami, FL",FL,2686,0.09,241.74,normal,2.1,5640.6,70,5882.34
+"Los Angeles, CA",CA,"Miami, FL",FL,2686,0.126,338.44,fast,2.62,7037.32,80,7375.76
+"Los Angeles, CA",CA,"Denver, CO",CO,954,0.059,56.29,slow,1.78,1698.12,60,1754.41
+"Los Angeles, CA",CA,"Denver, CO",CO,954,0.065,62.01,normal,2.1,2003.4,70,2065.41
+"Los Angeles, CA",CA,"Denver, CO",CO,954,0.091,86.81,fast,2.62,2499.48,80,2586.29
+"Los Angeles, CA",CA,"Phoenix, AZ",AZ,410,0.059,24.19,slow,1.78,729.8,60,753.99
+"Los Angeles, CA",CA,"Phoenix, AZ",AZ,410,0.065,26.65,normal,2.1,861,70,887.65
+"Los Angeles, CA",CA,"Phoenix, AZ",AZ,410,0.091,37.31,fast,2.62,1074.2,80,1111.51
+"Los Angeles, CA",CA,"Seattle, WA",WA,1104,0.063,69.55,slow,1.78,1965.12,60,2034.67
+"Los Angeles, CA",CA,"Seattle, WA",WA,1104,0.07,77.28,normal,2.1,2318.4,70,2395.68
+"Los Angeles, CA",CA,"Seattle, WA",WA,1104,0.098,108.19,fast,2.62,2892.48,80,3000.67
+"Los Angeles, CA",CA,"New York, NY",NY,2812,0.09,253.08,slow,1.78,5005.36,60,5258.44
+"Los Angeles, CA",CA,"New York, NY",NY,2812,0.1,281.2,normal,2.1,5905.2,70,6186.4
+"Los Angeles, CA",CA,"New York, NY",NY,2812,0.14,393.68,fast,2.62,7367.44,80,7761.12
+"Atlanta, GA",GA,"Dallas, TX",TX,828,0.041,33.95,slow,1.78,1473.84,60,1507.79
+"Atlanta, GA",GA,"Dallas, TX",TX,828,0.045,37.26,normal,2.1,1738.8,70,1776.06
+"Atlanta, GA",GA,"Dallas, TX",TX,828,0.063,52.16,fast,2.62,2169.36,80,2221.52
+"Atlanta, GA",GA,"Chicago, IL",IL,677,0.068,46.04,slow,1.78,1205.06,60,1251.1
+"Atlanta, GA",GA,"Chicago, IL",IL,677,0.075,50.77,normal,2.1,1421.7,70,1472.47
+"Atlanta, GA",GA,"Chicago, IL",IL,677,0.105,71.08,fast,2.62,1773.74,80,1844.82
+"Atlanta, GA",GA,"Los Angeles, CA",CA,2223,0.059,131.16,slow,1.78,3956.94,60,4088.1
+"Atlanta, GA",GA,"Los Angeles, CA",CA,2223,0.065,144.5,normal,2.1,4668.3,70,4812.8
+"Atlanta, GA",GA,"Los Angeles, CA",CA,2223,0.091,202.29,fast,2.62,5824.26,80,6026.55
+"Atlanta, GA",GA,"Houston, TX",TX,806,0.041,33.05,slow,1.78,1434.68,60,1467.73
+"Atlanta, GA",GA,"Houston, TX",TX,806,0.045,36.27,normal,2.1,1692.6,70,1728.87
+"Atlanta, GA",GA,"Houston, TX",TX,806,0.063,50.78,fast,2.62,2111.72,80,2162.5
+"Atlanta, GA",GA,"Miami, FL",FL,697,0.068,47.4,slow,1.78,1240.66,60,1288.06
+"Atlanta, GA",GA,"Miami, FL",FL,697,0.075,52.27,normal,2.1,1463.7,70,1515.97
+"Atlanta, GA",GA,"Miami, FL",FL,697,0.105,73.19,fast,2.62,1826.14,80,1899.33
+"Atlanta, GA",GA,"Denver, CO",CO,1392,0.045,62.64,slow,1.78,2477.76,60,2540.4
+"Atlanta, GA",GA,"Denver, CO",CO,1392,0.05,69.6,normal,2.1,2923.2,70,2992.8
+"Atlanta, GA",GA,"Denver, CO",CO,1392,0.07,97.44,fast,2.62,3647.04,80,3744.48
+"Atlanta, GA",GA,"Phoenix, AZ",AZ,1827,0.045,82.22,slow,1.78,3252.06,60,3334.28
+"Atlanta, GA",GA,"Phoenix, AZ",AZ,1827,0.05,91.35,normal,2.1,3836.7,70,3928.05
+"Atlanta, GA",GA,"Phoenix, AZ",AZ,1827,0.07,127.89,fast,2.62,4786.74,80,4914.63
+"Atlanta, GA",GA,"Seattle, WA",WA,2505,0.05,125.25,slow,1.78,4458.9,60,4584.15
+"Atlanta, GA",GA,"Seattle, WA",WA,2505,0.055,137.78,normal,2.1,5260.5,70,5398.28
+"Atlanta, GA",GA,"Seattle, WA",WA,2505,0.077,192.88,fast,2.62,6563.1,80,6755.98
+"Atlanta, GA",GA,"New York, NY",NY,858,0.076,65.21,slow,1.78,1527.24,60,1592.45
+"Atlanta, GA",GA,"New York, NY",NY,858,0.085,72.93,normal,2.1,1801.8,70,1874.73
+"Atlanta, GA",GA,"New York, NY",NY,858,0.119,102.1,fast,2.62,2247.96,80,2350.06
+"Houston, TX",TX,"Dallas, TX",TX,259,0.036,9.32,slow,1.78,461.02,60,470.34
+"Houston, TX",TX,"Dallas, TX",TX,259,0.04,10.36,normal,2.1,543.9,70,554.26
+"Houston, TX",TX,"Dallas, TX",TX,259,0.056,14.5,fast,2.62,678.58,80,693.08
+"Houston, TX",TX,"Chicago, IL",IL,1083,0.063,68.23,slow,1.78,1927.74,60,1995.97
+"Houston, TX",TX,"Chicago, IL",IL,1083,0.07,75.81,normal,2.1,2274.3,70,2350.11
+"Houston, TX",TX,"Chicago, IL",IL,1083,0.098,106.13,fast,2.62,2837.46,80,2943.59
+"Houston, TX",TX,"Los Angeles, CA",CA,1577,0.054,85.16,slow,1.78,2807.06,60,2892.22
+"Houston, TX",TX,"Los Angeles, CA",CA,1577,0.06,94.62,normal,2.1,3311.7,70,3406.32
+"Houston, TX",TX,"Los Angeles, CA",CA,1577,0.084,132.47,fast,2.62,4131.74,80,4264.21
+"Houston, TX",TX,"Atlanta, GA",GA,806,0.041,33.05,slow,1.78,1434.68,60,1467.73
+"Houston, TX",TX,"Atlanta, GA",GA,806,0.045,36.27,normal,2.1,1692.6,70,1728.87
+"Houston, TX",TX,"Atlanta, GA",GA,806,0.063,50.78,fast,2.62,2111.72,80,2162.5
+"Houston, TX",TX,"Miami, FL",FL,1112,0.063,70.06,slow,1.78,1979.36,60,2049.42
+"Houston, TX",TX,"Miami, FL",FL,1112,0.07,77.84,normal,2.1,2335.2,70,2413.04
+"Houston, TX",TX,"Miami, FL",FL,1112,0.098,108.98,fast,2.62,2913.44,80,3022.42
+"Houston, TX",TX,"Denver, CO",CO,1010,0.041,41.41,slow,1.78,1797.8,60,1839.21
+"Houston, TX",TX,"Denver, CO",CO,1010,0.045,45.45,normal,2.1,2121,70,2166.45
+"Houston, TX",TX,"Denver, CO",CO,1010,0.063,63.63,fast,2.62,2646.2,80,2709.83
+"Houston, TX",TX,"Phoenix, AZ",AZ,1166,0.041,47.81,slow,1.78,2075.48,60,2123.29
+"Houston, TX",TX,"Phoenix, AZ",AZ,1166,0.045,52.47,normal,2.1,2448.6,70,2501.07
+"Houston, TX",TX,"Phoenix, AZ",AZ,1166,0.063,73.46,fast,2.62,3054.92,80,3128.38
+"Houston, TX",TX,"Seattle, WA",WA,2173,0.045,97.78,slow,1.78,3867.94,60,3965.72
+"Houston, TX",TX,"Seattle, WA",WA,2173,0.05,108.65,normal,2.1,4563.3,70,4671.95
+"Houston, TX",TX,"Seattle, WA",WA,2173,0.07,152.11,fast,2.62,5693.26,80,5845.37
+"Houston, TX",TX,"New York, NY",NY,1630,0.072,117.36,slow,1.78,2901.4,60,3018.76
+"Houston, TX",TX,"New York, NY",NY,1630,0.08,130.4,normal,2.1,3423,70,3553.4
+"Houston, TX",TX,"New York, NY",NY,1630,0.112,182.56,fast,2.62,4270.6,80,4453.16
+"Miami, FL",FL,"Dallas, TX",TX,1277,0.063,80.45,slow,1.78,2273.06,60,2353.51
+"Miami, FL",FL,"Dallas, TX",TX,1277,0.07,89.39,normal,2.1,2681.7,70,2771.09
+"Miami, FL",FL,"Dallas, TX",TX,1277,0.098,125.15,fast,2.62,3345.74,80,3470.89
+"Miami, FL",FL,"Chicago, IL",IL,1370,0.09,123.3,slow,1.78,2438.6,60,2561.9
+"Miami, FL",FL,"Chicago, IL",IL,1370,0.1,137,normal,2.1,2877,70,3014
+"Miami, FL",FL,"Chicago, IL",IL,1370,0.14,191.8,fast,2.62,3589.4,80,3781.2
+"Miami, FL",FL,"Los Angeles, CA",CA,2686,0.081,217.57,slow,1.78,4781.08,60,4998.65
+"Miami, FL",FL,"Los Angeles, CA",CA,2686,0.09,241.74,normal,2.1,5640.6,70,5882.34
+"Miami, FL",FL,"Los Angeles, CA",CA,2686,0.126,338.44,fast,2.62,7037.32,80,7375.76
+"Miami, FL",FL,"Atlanta, GA",GA,697,0.068,47.4,slow,1.78,1240.66,60,1288.06
+"Miami, FL",FL,"Atlanta, GA",GA,697,0.075,52.27,normal,2.1,1463.7,70,1515.97
+"Miami, FL",FL,"Atlanta, GA",GA,697,0.105,73.19,fast,2.62,1826.14,80,1899.33
+"Miami, FL",FL,"Houston, TX",TX,1112,0.063,70.06,slow,1.78,1979.36,60,2049.42
+"Miami, FL",FL,"Houston, TX",TX,1112,0.07,77.84,normal,2.1,2335.2,70,2413.04
+"Miami, FL",FL,"Houston, TX",TX,1112,0.098,108.98,fast,2.62,2913.44,80,3022.42
+"Miami, FL",FL,"Denver, CO",CO,1984,0.068,134.91,slow,1.78,3531.52,60,3666.43
+"Miami, FL",FL,"Denver, CO",CO,1984,0.075,148.8,normal,2.1,4166.4,70,4315.2
+"Miami, FL",FL,"Denver, CO",CO,1984,0.105,208.32,fast,2.62,5198.08,80,5406.4
+"Miami, FL",FL,"Phoenix, AZ",AZ,2276,0.068,154.77,slow,1.78,4051.28,60,4206.05
+"Miami, FL",FL,"Phoenix, AZ",AZ,2276,0.075,170.7,normal,2.1,4779.6,70,4950.3
+"Miami, FL",FL,"Phoenix, AZ",AZ,2276,0.105,238.98,fast,2.62,5963.12,80,6202.1
+"Miami, FL",FL,"Seattle, WA",WA,3141,0.072,226.15,slow,1.78,5590.98,60,5817.13
+"Miami, FL",FL,"Seattle, WA",WA,3141,0.08,251.28,normal,2.1,6596.1,70,6847.38
+"Miami, FL",FL,"Seattle, WA",WA,3141,0.112,351.79,fast,2.62,8229.42,80,8581.21
+"Miami, FL",FL,"New York, NY",NY,1256,0.099,124.34,slow,1.78,2235.68,60,2360.02
+"Miami, FL",FL,"New York, NY",NY,1256,0.11,138.16,normal,2.1,2637.6,70,2775.76
+"Miami, FL",FL,"New York, NY",NY,1256,0.154,193.42,fast,2.62,3290.72,80,3484.14
+"Denver, CO",CO,"Dallas, TX",TX,762,0.041,31.24,slow,1.78,1356.36,60,1387.6
+"Denver, CO",CO,"Dallas, TX",TX,762,0.045,34.29,normal,2.1,1600.2,70,1634.49
+"Denver, CO",CO,"Dallas, TX",TX,762,0.063,48.01,fast,2.62,1996.44,80,2044.45
+"Denver, CO",CO,"Chicago, IL",IL,1056,0.068,71.81,slow,1.78,1879.68,60,1951.49
+"Denver, CO",CO,"Chicago, IL",IL,1056,0.075,79.2,normal,2.1,2217.6,70,2296.8
+"Denver, CO",CO,"Chicago, IL",IL,1056,0.105,110.88,fast,2.62,2766.72,80,2877.6
+"Denver, CO",CO,"Los Angeles, CA",CA,954,0.059,56.29,slow,1.78,1698.12,60,1754.41
+"Denver, CO",CO,"Los Angeles, CA",CA,954,0.065,62.01,normal,2.1,2003.4,70,2065.41
+"Denver, CO",CO,"Los Angeles, CA",CA,954,0.091,86.81,fast,2.62,2499.48,80,2586.29
+"Denver, CO",CO,"Atlanta, GA",GA,1392,0.045,62.64,slow,1.78,2477.76,60,2540.4
+"Denver, CO",CO,"Atlanta, GA",GA,1392,0.05,69.6,normal,2.1,2923.2,70,2992.8
+"Denver, CO",CO,"Atlanta, GA",GA,1392,0.07,97.44,fast,2.62,3647.04,80,3744.48
+"Denver, CO",CO,"Houston, TX",TX,1010,0.041,41.41,slow,1.78,1797.8,60,1839.21
+"Denver, CO",CO,"Houston, TX",TX,1010,0.045,45.45,normal,2.1,2121,70,2166.45
+"Denver, CO",CO,"Houston, TX",TX,1010,0.063,63.63,fast,2.62,2646.2,80,2709.83
+"Denver, CO",CO,"Miami, FL",FL,1984,0.068,134.91,slow,1.78,3531.52,60,3666.43
+"Denver, CO",CO,"Miami, FL",FL,1984,0.075,148.8,normal,2.1,4166.4,70,4315.2
+"Denver, CO",CO,"Miami, FL",FL,1984,0.105,208.32,fast,2.62,5198.08,80,5406.4
+"Denver, CO",CO,"Phoenix, AZ",AZ,673,0.045,30.29,slow,1.78,1197.94,60,1228.23
+"Denver, CO",CO,"Phoenix, AZ",AZ,673,0.05,33.65,normal,2.1,1413.3,70,1446.95
+"Denver, CO",CO,"Phoenix, AZ",AZ,673,0.07,47.11,fast,2.62,1763.26,80,1810.37
+"Denver, CO",CO,"Seattle, WA",WA,1172,0.05,58.6,slow,1.78,2086.16,60,2144.76
+"Denver, CO",CO,"Seattle, WA",WA,1172,0.055,64.46,normal,2.1,2461.2,70,2525.66
+"Denver, CO",CO,"Seattle, WA",WA,1172,0.077,90.24,fast,2.62,3070.64,80,3160.88
+"Denver, CO",CO,"New York, NY",NY,1872,0.076,142.27,slow,1.78,3332.16,60,3474.43
+"Denver, CO",CO,"New York, NY",NY,1872,0.085,159.12,normal,2.1,3931.2,70,4090.32
+"Denver, CO",CO,"New York, NY",NY,1872,0.119,222.77,fast,2.62,4904.64,80,5127.41
+"Phoenix, AZ",AZ,"Dallas, TX",TX,1017,0.041,41.7,slow,1.78,1810.26,60,1851.96
+"Phoenix, AZ",AZ,"Dallas, TX",TX,1017,0.045,45.77,normal,2.1,2135.7,70,2181.47
+"Phoenix, AZ",AZ,"Dallas, TX",TX,1017,0.063,64.07,fast,2.62,2664.54,80,2728.61
+"Phoenix, AZ",AZ,"Chicago, IL",IL,1670,0.068,113.56,slow,1.78,2972.6,60,3086.16
+"Phoenix, AZ",AZ,"Chicago, IL",IL,1670,0.075,125.25,normal,2.1,3507,70,3632.25
+"Phoenix, AZ",AZ,"Chicago, IL",IL,1670,0.105,175.35,fast,2.62,4375.4,80,4550.75
+"Phoenix, AZ",AZ,"Los Angeles, CA",CA,410,0.059,24.19,slow,1.78,729.8,60,753.99
+"Phoenix, AZ",AZ,"Los Angeles, CA",CA,410,0.065,26.65,normal,2.1,861,70,887.65
+"Phoenix, AZ",AZ,"Los Angeles, CA",CA,410,0.091,37.31,fast,2.62,1074.2,80,1111.51
+"Phoenix, AZ",AZ,"Atlanta, GA",GA,1827,0.045,82.22,slow,1.78,3252.06,60,3334.28
+"Phoenix, AZ",AZ,"Atlanta, GA",GA,1827,0.05,91.35,normal,2.1,3836.7,70,3928.05
+"Phoenix, AZ",AZ,"Atlanta, GA",GA,1827,0.07,127.89,fast,2.62,4786.74,80,4914.63
+"Phoenix, AZ",AZ,"Houston, TX",TX,1166,0.041,47.81,slow,1.78,2075.48,60,2123.29
+"Phoenix, AZ",AZ,"Houston, TX",TX,1166,0.045,52.47,normal,2.1,2448.6,70,2501.07
+"Phoenix, AZ",AZ,"Houston, TX",TX,1166,0.063,73.46,fast,2.62,3054.92,80,3128.38
+"Phoenix, AZ",AZ,"Miami, FL",FL,2276,0.068,154.77,slow,1.78,4051.28,60,4206.05
+"Phoenix, AZ",AZ,"Miami, FL",FL,2276,0.075,170.7,normal,2.1,4779.6,70,4950.3
+"Phoenix, AZ",AZ,"Miami, FL",FL,2276,0.105,238.98,fast,2.62,5963.12,80,6202.1
+"Phoenix, AZ",AZ,"Denver, CO",CO,673,0.045,30.29,slow,1.78,1197.94,60,1228.23
+"Phoenix, AZ",AZ,"Denver, CO",CO,673,0.05,33.65,normal,2.1,1413.3,70,1446.95
+"Phoenix, AZ",AZ,"Denver, CO",CO,673,0.07,47.11,fast,2.62,1763.26,80,1810.37
+"Phoenix, AZ",AZ,"Seattle, WA",WA,1282,0.05,64.1,slow,1.78,2281.96,60,2346.06
+"Phoenix, AZ",AZ,"Seattle, WA",WA,1282,0.055,70.51,normal,2.1,2692.2,70,2762.71
+"Phoenix, AZ",AZ,"Seattle, WA",WA,1282,0.077,98.71,fast,2.62,3358.84,80,3457.55
+"Phoenix, AZ",AZ,"New York, NY",NY,2461,0.076,187.04,slow,1.78,4380.58,60,4567.62
+"Phoenix, AZ",AZ,"New York, NY",NY,2461,0.085,209.19,normal,2.1,5168.1,70,5377.29
+"Phoenix, AZ",AZ,"New York, NY",NY,2461,0.119,292.86,fast,2.62,6447.82,80,6740.68
+"Seattle, WA",WA,"Dallas, TX",TX,1932,0.045,86.94,slow,1.78,3438.96,60,3525.9
+"Seattle, WA",WA,"Dallas, TX",TX,1932,0.05,96.6,normal,2.1,4057.2,70,4153.8
+"Seattle, WA",WA,"Dallas, TX",TX,1932,0.07,135.24,fast,2.62,5061.84,80,5197.08
+"Seattle, WA",WA,"Chicago, IL",IL,1993,0.072,143.5,slow,1.78,3547.54,60,3691.04
+"Seattle, WA",WA,"Chicago, IL",IL,1993,0.08,159.44,normal,2.1,4185.3,70,4344.74
+"Seattle, WA",WA,"Chicago, IL",IL,1993,0.112,223.22,fast,2.62,5221.66,80,5444.88
+"Seattle, WA",WA,"Los Angeles, CA",CA,1104,0.063,69.55,slow,1.78,1965.12,60,2034.67
+"Seattle, WA",WA,"Los Angeles, CA",CA,1104,0.07,77.28,normal,2.1,2318.4,70,2395.68
+"Seattle, WA",WA,"Los Angeles, CA",CA,1104,0.098,108.19,fast,2.62,2892.48,80,3000.67
+"Seattle, WA",WA,"Atlanta, GA",GA,2505,0.05,125.25,slow,1.78,4458.9,60,4584.15
+"Seattle, WA",WA,"Atlanta, GA",GA,2505,0.055,137.78,normal,2.1,5260.5,70,5398.28
+"Seattle, WA",WA,"Atlanta, GA",GA,2505,0.077,192.88,fast,2.62,6563.1,80,6755.98
+"Seattle, WA",WA,"Houston, TX",TX,2173,0.045,97.78,slow,1.78,3867.94,60,3965.72
+"Seattle, WA",WA,"Houston, TX",TX,2173,0.05,108.65,normal,2.1,4563.3,70,4671.95
+"Seattle, WA",WA,"Houston, TX",TX,2173,0.07,152.11,fast,2.62,5693.26,80,5845.37
+"Seattle, WA",WA,"Miami, FL",FL,3141,0.072,226.15,slow,1.78,5590.98,60,5817.13
+"Seattle, WA",WA,"Miami, FL",FL,3141,0.08,251.28,normal,2.1,6596.1,70,6847.38
+"Seattle, WA",WA,"Miami, FL",FL,3141,0.112,351.79,fast,2.62,8229.42,80,8581.21
+"Seattle, WA",WA,"Denver, CO",CO,1172,0.05,58.6,slow,1.78,2086.16,60,2144.76
+"Seattle, WA",WA,"Denver, CO",CO,1172,0.055,64.46,normal,2.1,2461.2,70,2525.66
+"Seattle, WA",WA,"Denver, CO",CO,1172,0.077,90.24,fast,2.62,3070.64,80,3160.88
+"Seattle, WA",WA,"Phoenix, AZ",AZ,1282,0.05,64.1,slow,1.78,2281.96,60,2346.06
+"Seattle, WA",WA,"Phoenix, AZ",AZ,1282,0.055,70.51,normal,2.1,2692.2,70,2762.71
+"Seattle, WA",WA,"Phoenix, AZ",AZ,1282,0.077,98.71,fast,2.62,3358.84,80,3457.55
+"Seattle, WA",WA,"New York, NY",NY,2762,0.081,223.72,slow,1.78,4916.36,60,5140.08
+"Seattle, WA",WA,"New York, NY",NY,2762,0.09,248.58,normal,2.1,5800.2,70,6048.78
+"Seattle, WA",WA,"New York, NY",NY,2762,0.126,348.01,fast,2.62,7236.44,80,7584.45
+"New York, NY",NY,"Dallas, TX",TX,1576,0.072,113.47,slow,1.78,2805.28,60,2918.75
+"New York, NY",NY,"Dallas, TX",TX,1576,0.08,126.08,normal,2.1,3309.6,70,3435.68
+"New York, NY",NY,"Dallas, TX",TX,1576,0.112,176.51,fast,2.62,4129.12,80,4305.63
+"New York, NY",NY,"Chicago, IL",IL,818,0.099,80.98,slow,1.78,1456.04,60,1537.02
+"New York, NY",NY,"Chicago, IL",IL,818,0.11,89.98,normal,2.1,1717.8,70,1807.78
+"New York, NY",NY,"Chicago, IL",IL,818,0.154,125.97,fast,2.62,2143.16,80,2269.13
+"New York, NY",NY,"Los Angeles, CA",CA,2812,0.09,253.08,slow,1.78,5005.36,60,5258.44
+"New York, NY",NY,"Los Angeles, CA",CA,2812,0.1,281.2,normal,2.1,5905.2,70,6186.4
+"New York, NY",NY,"Los Angeles, CA",CA,2812,0.14,393.68,fast,2.62,7367.44,80,7761.12
+"New York, NY",NY,"Atlanta, GA",GA,858,0.076,65.21,slow,1.78,1527.24,60,1592.45
+"New York, NY",NY,"Atlanta, GA",GA,858,0.085,72.93,normal,2.1,1801.8,70,1874.73
+"New York, NY",NY,"Atlanta, GA",GA,858,0.119,102.1,fast,2.62,2247.96,80,2350.06
+"New York, NY",NY,"Houston, TX",TX,1630,0.072,117.36,slow,1.78,2901.4,60,3018.76
+"New York, NY",NY,"Houston, TX",TX,1630,0.08,130.4,normal,2.1,3423,70,3553.4
+"New York, NY",NY,"Houston, TX",TX,1630,0.112,182.56,fast,2.62,4270.6,80,4453.16
+"New York, NY",NY,"Miami, FL",FL,1256,0.099,124.34,slow,1.78,2235.68,60,2360.02
+"New York, NY",NY,"Miami, FL",FL,1256,0.11,138.16,normal,2.1,2637.6,70,2775.76
+"New York, NY",NY,"Miami, FL",FL,1256,0.154,193.42,fast,2.62,3290.72,80,3484.14
+"New York, NY",NY,"Denver, CO",CO,1872,0.076,142.27,slow,1.78,3332.16,60,3474.43
+"New York, NY",NY,"Denver, CO",CO,1872,0.085,159.12,normal,2.1,3931.2,70,4090.32
+"New York, NY",NY,"Denver, CO",CO,1872,0.119,222.77,fast,2.62,4904.64,80,5127.41
+"New York, NY",NY,"Phoenix, AZ",AZ,2461,0.076,187.04,slow,1.78,4380.58,60,4567.62
+"New York, NY",NY,"Phoenix, AZ",AZ,2461,0.085,209.19,normal,2.1,5168.1,70,5377.29
+"New York, NY",NY,"Phoenix, AZ",AZ,2461,0.119,292.86,fast,2.62,6447.82,80,6740.68
+"New York, NY",NY,"Seattle, WA",WA,2762,0.081,223.72,slow,1.78,4916.36,60,5140.08
+"New York, NY",NY,"Seattle, WA",WA,2762,0.09,248.58,normal,2.1,5800.2,70,6048.78
+"New York, NY",NY,"Seattle, WA",WA,2762,0.126,348.01,fast,2.62,7236.44,80,7584.45
